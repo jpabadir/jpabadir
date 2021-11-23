@@ -1,6 +1,6 @@
 # Welcome to my GitHub!
 
-### I'm a freelance software developer! I started a company to house my work, you can view its website [here](https://www.northpnd.com). 
+### I'm a freelance software developer. I started a company to house my work, you can view its website [here](https://www.northpnd.com). 
 
 Don't hesitate to get in touch with me [on LinkedIn](https://www.linkedin.com/in/jean-philippe-abadir-2a931a157) or by emailing me at jp@northpnd.com!
 

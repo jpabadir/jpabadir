@@ -1,4 +1,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpabadir)](https://git.io/streak-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jpabadir)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jpabadir/jpabadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

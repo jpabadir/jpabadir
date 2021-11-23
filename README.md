@@ -1,3 +1,9 @@
+# Welcome to my GitHub!
+
+### I'm a freelance software developer! I started a company to house my work, you can view its website [here](https://www.northpnd.com). 
+
+Don't hesitate to get in touch with me [on LinkedIn](https://www.linkedin.com/in/jean-philippe-abadir-2a931a157) or by emailing me at jp@northpnd.com!
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpabadir)](https://git.io/streak-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jpabadir)](https://github.com/anuraghazra/github-readme-stats)
 

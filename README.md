@@ -1,4 +1,4 @@
-# Welcome to my GitHub!
+# Welcome to my profile!
 
 #### I'm a freelance software developer! I graduated from UBC Okanagan with a Bachelor of Science in Computer Science in May of 2021. I interned as a Web Developer for RBC in 2019, and for Amazon Web Services as a Software Development Engineer in 2020. I started a company to house my work, you can view its website [here](https://www.northpnd.com). 
 

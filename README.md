@@ -2,7 +2,7 @@
 
 I'm a freelance software developer. I graduated from UBC Okanagan with a Bachelor of Science in Computer Science in May of 2021. I interned as a Web Developer for RBC in 2019, and for Amazon Web Services as a Software Development Engineer in 2020. I started a company to house my work, you can view its website [here](https://www.northpnd.com). 
 
-I am based in Toronto, Ontario, and currently onboarding new clients! If you're interested, or just want to chat, don't hesitate to get in touch with me [on LinkedIn](https://www.linkedin.com/in/jean-philippe-abadir-2a931a157) or by emailing me at jp@northpnd.com. 
+I am based in Toronto, Ontario. Feel free to connect [on LinkedIn](https://www.linkedin.com/in/jean-philippe-abadir-2a931a157) or by emailing me at jp@northpnd.com. 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpabadir)](https://git.io/streak-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jpabadir)](https://github.com/anuraghazra/github-readme-stats)

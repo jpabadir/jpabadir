@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-I'm the founder and technical lead of a Toronto-based tech consultancy called North P&D. I graduated from UBC Okanagan with a Bachelor of Science in Computer Science in May of 2021. I interned as a Web Developer for RBC in 2019, and for Amazon Web Services as a Software Development Engineer in 2020. You can check out my company's website [here](https://www.northpnd.com). 
+I'm the founder and tech lead of a Toronto-based tech consultancy called North P&D. I graduated from UBC Okanagan with a Bachelor of Science in Computer Science in May of 2021. I interned as a Web Developer for RBC in 2019, and for Amazon Web Services as a Software Development Engineer in 2020. You can check out my company's website [here](https://www.northpnd.com). 
 
 You can also connect with me [on LinkedIn](https://www.linkedin.com/in/jean-philippe-abadir-2a931a157) or by emailing me at jp@northpnd.com. 
 

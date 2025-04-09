@@ -4,7 +4,6 @@ I'm the founder and tech lead of a Toronto-based tech consultancy called North P
 
 You can also connect with me [on LinkedIn](https://www.linkedin.com/in/jean-philippe-abadir-2a931a157) or by emailing me at jp@northpnd.com. 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpabadir)](https://git.io/streak-stats)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jpabadir)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

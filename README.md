@@ -4,8 +4,6 @@ I'm the founder and tech lead of a Toronto-based tech consultancy called North P
 
 You can also connect with me [on LinkedIn](https://www.linkedin.com/in/jean-philippe-abadir-2a931a157) or by emailing me at jp@northpnd.com. 
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=jpabadir)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **jpabadir/jpabadir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
